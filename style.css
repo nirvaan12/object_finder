@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+    background-position: center;    
+    }
+    .heading
+    {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color:black
+    }
+    
+    #status,#objectdetected,#start_model,#Object_label,#object_to_find
+    {
+    font-size: 18px;
+    }
+    
+    canvas{
+        box-shadow: 10px 10px 10px blue;
+        border-radius: 10px;
+        margin-top: 50px;
+    }
+
+    #note{
+        font-size: 15px;
+        width: 100%;
+        margin: 0px;
+        color:black   
+    }
